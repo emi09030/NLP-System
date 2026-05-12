@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+langchain-ollama
+sentence-transformers
+faiss-cpu
+pypdf
+python-docx
+streamlit
+ollama
+unstructured
+numpy
+pandas
+tqdm
